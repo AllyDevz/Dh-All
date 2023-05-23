@@ -3,6 +3,7 @@ import os,sys
 from os import system
 import random
 from time import sleep
+import core.tools
 from core.tools import *
 os.system('clear')
 def ban():
